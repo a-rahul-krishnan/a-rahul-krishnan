@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏻
+I'm A.Rahul Krishnan
+I'm a passionate Computer Science and Engineering student with
+
+a keen interest in Web Development. My focus is on consistently
+
+enhancing my skills through dedicated learning for excellence.
 
 <!--
 **a-rahul-krishnan/a-rahul-krishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
