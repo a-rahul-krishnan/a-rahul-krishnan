@@ -1,4 +1,4 @@
-### Hi there 👋🏻. I'm A.Rahul Krishnan
+### Hi there!👋🏻. I'm A.Rahul Krishnan.
 I'm a passionate Computer Science and Engineering student witha keen interest in Web Development.
 My focus is on consistently enhancing my skills through dedicated learning for excellence.
 
