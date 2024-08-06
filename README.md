@@ -1,5 +1,5 @@
 ### Hi there!👋🏻. I'm A.Rahul Krishnan.
-I'm a passionate Computer Science and Engineering student with a keen interest in Web Development.
+I'm a passionate Computer Science and Engineering student with a keen interest in Software Development.
 My focus is on consistently enhancing my skills through dedicated learning for excellence.
 
 [My LinkTree🌴](https://linktr.ee/a_rahul_krishnan)
