@@ -2,7 +2,7 @@
 I'm a passionate Computer Science and Engineering graduate with a keen interest in Software Development.
 My focus is on consistently enhancing my skills through dedicated learning for excellence.
 
-[My Portfolio🌴](https://github.com/a-rahul-krishnan/portfolio.github.io)
+[My Portfolio🌴]([https://github.com/a-rahul-krishnan/portfolio.github.io](https://a-rahul-krishnan.github.io/portfolio.github.io/))
 <!--
 **a-rahul-krishnan/a-rahul-krishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
