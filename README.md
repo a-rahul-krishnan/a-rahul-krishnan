@@ -1,8 +1,8 @@
 ### Hi there!👋🏻. I'm A.Rahul Krishnan.
-I'm a passionate Computer Science and Engineering student with a keen interest in Software Development.
+I'm a passionate Computer Science and Engineering graduate with a keen interest in Software Development.
 My focus is on consistently enhancing my skills through dedicated learning for excellence.
 
-[My LinkTree🌴](https://linktr.ee/a_rahul_krishnan)
+[My Portfolio🌴](https://github.com/a-rahul-krishnan/portfolio.github.io)
 <!--
 **a-rahul-krishnan/a-rahul-krishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
